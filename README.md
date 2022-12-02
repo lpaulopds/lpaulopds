@@ -8,7 +8,6 @@ estudo e pratico paralelamente design gráfico,
 design de interface e experiência do usuário 
 juntamente com o desenvolvimento web PHP, MySQL 
 e GNU/Linux. 
----
  
  
 ### HABILIDADES
