@@ -1,4 +1,4 @@
-## SOBRE
+### SOBRE
  
 Meu nome é Luiz, sou designer e desenvolvedor web 
 com as tecnológias HTML, CSS, PHP MySQL e GNU/Linux. 
@@ -20,17 +20,17 @@ e GNU/Linux.
 - Design de marca, símbolos, ícones e peças gráficas para redes sociais
  
  
-#### Atualmente neste repositório
+### Atualmente neste repositório
  
 Ainda não possui um projeto formal para 
 mostrar como portifólio, o que tem por enquanto 
 são objetos de estudos e consultas. 
  
  
-#### Idioma
+### Idioma
 Português - Brasil 
  
 
-#### LinkedIn
+### LinkedIn
 <https://www.linkedin.com/in/luizpaulopds>
  
